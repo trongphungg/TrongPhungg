@@ -39,6 +39,6 @@ Tôi là một lập trình viên có kinh nghiệm phát triển web và hệ t
 ## 📫 Liên hệ
 📧 Email: trongphung020103@gmail.com
 🌐 Website: https://trongphungg.infinityfreeapp.com
-💼 LinkedIn: [yourlinkedin](https://linkedin.com/in/yourusername)  
+💼 LinkedIn: https://www.linkedin.com/in/ph%E1%BB%A5ng-nguy%E1%BB%85n-83144a308/
 
 ---
