@@ -1,44 +1,70 @@
-<h1 align="center">Xin chào! 👋 Tôi là Nguyễn Trọng Phụng </h1>
-<h3 align="center">💻 Lập trình viên Fullstack | DevOps </h3>
+<!-- Trungquandev -->
+<a href="#" target="_blank">
+  <img src="svg/TrongPhung.svg" width="1200" alt="TrongPhung" />
+</a>
 
----
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<br>
+<!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+&nbsp;
 
-### 🚀 Giới thiệu
-Tôi là một lập trình viên có kinh nghiệm phát triển web và hệ thống backend. Hiện tại, tôi đang tìm hiểu về Blockchain và AI để mở rộng kiến thức.
+<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
 
----
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+&nbsp;
 
-## 🔥 Kỹ năng
-
-### 🛠 Ngôn ngữ lập trình:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-
-### 🖥️ Frameworks:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-
-### 🔧 Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-### 📦 Cơ sở dữ liệu:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-### ☁️ DevOps & Cloud:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
 
 
----
+<br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
 
-## 📫 Liên hệ
-📧 Email: trongphung020103@gmail.com
-🌐 Website: https://trongphungg.infinityfreeapp.com
-💼 LinkedIn: https://www.linkedin.com/in/trongphungg
 
----
+<br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+
+<div align="center">
+  <a href="https://www.facebook.com/TrongPhungg" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trongphungg-facebook" />
+  </a>
+
+  <a href="http://linkedin.com/in/trongphungg" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trongphungg-linkedin" />
+  </a>
+  <a href="https://www.instagram.com/tronggphunggg/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trongphungg-instagram" />
+  </a>
+  <a href="mailto:trongphung020103@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trongphungg-email" />
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a href="#" target="_blank">
+  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
+</a>
