@@ -38,7 +38,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.facebook.com/TrongPhungg" target="_blank">
+  <a href="https://www.facebook.com/trongphungg" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trongphungg-facebook" />
   </a>
 
